@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dheeraj/Desktop/android-pdfview-master/android-pdfview-sample/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/home/dheeraj/Desktop/android-pdfview-master/android-pdfview-sample/build/intermediates/pre-dexed/debug/classes-c354f23eb5b60e4dc27b1a97373139eb767dd0c7.jar" />
+    </item>
+    <item
+        jar="/home/dheeraj/.gradle/caches/modules-2/files-2.1/com.googlecode.androidannotations/androidannotations-api/2.7.1/64169e7aacaaa76f5a0ca5eea66e2fc02737a17/androidannotations-api-2.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="064169e7aacaaa76f5a0ca5eea66e2fc02737a17">
+        <dex dex="/home/dheeraj/Desktop/android-pdfview-master/android-pdfview-sample/build/intermediates/pre-dexed/debug/androidannotations-api-2.7.1-081468cc4537738939f2d1ac422641782f290e02.jar" />
+    </item>
+    <item
+        jar="/home/dheeraj/Desktop/android-pdfview-master/android-pdfview-sample/build/intermediates/exploded-aar/com.joanzapata.pdfview/android-pdfview/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6b14eae9a5ce5c9741ca3801bf4dc71b927b815a">
+        <dex dex="/home/dheeraj/Desktop/android-pdfview-master/android-pdfview-sample/build/intermediates/pre-dexed/debug/classes-3244af342c034fe1502845a3b87f054a8af043c1.jar" />
+    </item>
+
+</items>
